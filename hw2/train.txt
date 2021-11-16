@@ -1,0 +1,25 @@
+ID	Date	Opponent	Is_Home_or_Away	Is_Opponent_in_AP25_Preseason	Media	Label
+0	1	9/5/15	Texas	Home	Out	NBC	Win
+1	2	9/12/15	Virginia	Away	Out	ABC	Win
+2	3	9/19/15	Georgia Tech	Home	In	NBC	Win
+3	4	9/26/15	UMass	Home	Out	NBC	Win
+4	5	10/3/15	Clemson	Away	In	ABC	Lose
+5	6	10/10/15	Navy	Home	Out	NBC	Win
+6	7	10/17/15	USC	Home	In	NBC	Win
+7	8	10/31/15	Temple	Away	Out	ABC	Win
+8	9	11/7/15	PITT	Away	Out	ABC	Win
+9	10	11/14/15	Wake Forest	Home	Out	NBC	Win
+10	11	11/21/15	Boston College	Away	Out	NBC	Win
+11	12	11/28/15	Stanford	Away	In	FOX	Lose
+12	13	9/4/16	Texas	Away	Out	ABC	Lose
+13	14	9/10/16	Nevada	Home	Out	NBC	Win
+14	15	9/17/16	Michigan State	Home	Out	NBC	Lose
+15	16	9/24/16	Duke	Home	Out	NBC	Lose
+16	17	10/1/16	Syracuse	Home	Out	ESPN	Win
+17	18	10/8/16	North Carolina State	Away	Out	ABC	Lose
+18	19	10/15/16	Stanford	Home	In	NBC	Lose
+19	20	10/29/16	Miami Florida	Home	Out	NBC	Win
+20	21	11/5/16	Navy	Home	Out	CBS	Lose
+21	22	11/12/16	Army	Home	Out	NBC	Win
+22	23	11/19/16	Virginia Tech	Home	In	NBC	Lose
+23	24	11/26/16	USC	Away	In	ABC	Lose
